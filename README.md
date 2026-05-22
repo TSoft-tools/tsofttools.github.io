@@ -22,7 +22,7 @@ title: TSoft Tools
 
 ## Контакты
 
-Email: planet.ka82@mail.ru
+Email: tsoft_tools@mail.ru
 
 ## Privacy Policy
 
